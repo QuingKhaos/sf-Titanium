@@ -10,6 +10,10 @@ Adds titanium to the base game.
 
 ![Titanium Ingot recipe](https://github.com/QuingKhaos/sf-Titanium/blob/0.x/.github/images/Recipe_TitaniumIngot.png?raw=true)
 
+### Titanium Plate
+
+![Titanium Plate recipe](https://github.com/QuingKhaos/sf-Titanium/blob/0.x/.github/images/Recipe_TitaniumPlate.png?raw=true)
+
 ## License
 
 This mod is licensed under the [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html). You are free to use, modify, and distribute this mod under the same terms of the license.
