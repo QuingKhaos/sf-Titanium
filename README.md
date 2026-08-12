@@ -6,6 +6,18 @@ Adds titanium to the base game.
 
 ## What's in this mod?
 
+### Titanium Ore
+
+Titanium Ore can't be hand mined and needs Lubricant as mining fluid.
+
+Node placement is preliminary and subject to change based on playtesting and feedback.
+
+<details>
+<summary>Map (spoiler!)</summary>
+<img src="https://github.com/QuingKhaos/sf-Titanium/blob/0.x/.github/images/Map.png?raw=true" alt="Map" width="100%" /> <!-- markdownlint-disable MD044 --> <br />
+Legend: Green = Pure, Orange = Normal
+</details>
+
 ### Titanium Processing
 
 ![Titanium Processing schematic](https://github.com/QuingKhaos/sf-Titanium/blob/0.x/.github/images/Schematic_TitaniumProcessing.png?raw=true)
