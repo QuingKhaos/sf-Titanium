@@ -6,11 +6,19 @@ Adds titanium to the base game.
 
 ## What's in this mod?
 
-### Titanium Ingot
+### Titanium Processing
+
+![Titanium Processing schematic](https://github.com/QuingKhaos/sf-Titanium/blob/0.x/.github/images/Schematic_TitaniumProcessing.png?raw=true)
+
+#### Lubricant
+
+![Lubricant recipe](https://github.com/QuingKhaos/sf-Titanium/blob/0.x/.github/images/Recipe_Lubricant.png?raw=true)
+
+#### Titanium Ingot
 
 ![Titanium Ingot recipe](https://github.com/QuingKhaos/sf-Titanium/blob/0.x/.github/images/Recipe_TitaniumIngot.png?raw=true)
 
-### Titanium Plate
+#### Titanium Plate
 
 ![Titanium Plate recipe](https://github.com/QuingKhaos/sf-Titanium/blob/0.x/.github/images/Recipe_TitaniumPlate.png?raw=true)
 
