@@ -9,7 +9,7 @@
 	"CreatedBy": "QuingKhaos",
 	"CreatedByURL": "https://github.com/QuingKhaos",
 	"DocsURL": "",
-	"MarketplaceURL": "https://ficsit.app/mod/Titanium",
+	"MarketplaceURL": "https://ficsit.app/mod/KhaosTitanium",
 	"SupportURL": "https://discord.gg/B3qJBE3M9W",
 	"CanContainContent": true,
 	"IsBetaVersion": false,
@@ -25,7 +25,7 @@
 		{
 			"Name": "KBFL",
 			"Enabled": true,
-			"SemVersion": "^2026.3.434"
+			"SemVersion": "^2026.3.467"
 		},
 		{
 			"Name": "KhaosLib",

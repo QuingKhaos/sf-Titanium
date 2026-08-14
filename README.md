@@ -1,4 +1,4 @@
-[![Discord community](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/B3qJBE3M9W) [![Satisfactory mod portal](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.ficsit.app%2Fv1%2Fmod%2FMODID&query=data.downloads&suffix=%20downloads&style=for-the-badge&color=orange&label=ficsit.app&labelColor=rgb(111,148,173))](https://ficsit.app/mod/Titanium) ![Multiplayer supported](https://img.shields.io/badge/Multiplayer-Supported-green?style=for-the-badge) [![GitHub issues: bugs](https://img.shields.io/github/issues/QuingKhaos/sf-Titanium/bug?label=Bug%20Reports&style=for-the-badge&logo=github)](https://github.com/QuingKhaos/sf-Titanium/issues?q=is%3Aissue%20state%3Aopen%20label%3Abug) [![GitHub pull requests](https://img.shields.io/github/issues-pr/QuingKhaos/sf-Titanium?label=Pull%20Requests&style=for-the-badge&logo=github)](https://github.com/QuingKhaos/sf-Titanium/pulls)
+[![Discord community](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/B3qJBE3M9W) [![Satisfactory mod portal](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.ficsit.app%2Fv1%2Fmod%2FMODID&query=data.downloads&suffix=%20downloads&style=for-the-badge&color=orange&label=ficsit.app&labelColor=rgb(111,148,173))](https://ficsit.app/mod/KhaosTitanium) ![Multiplayer supported](https://img.shields.io/badge/Multiplayer-Supported-green?style=for-the-badge) [![GitHub issues: bugs](https://img.shields.io/github/issues/QuingKhaos/sf-Titanium/bug?label=Bug%20Reports&style=for-the-badge&logo=github)](https://github.com/QuingKhaos/sf-Titanium/issues?q=is%3Aissue%20state%3Aopen%20label%3Abug) [![GitHub pull requests](https://img.shields.io/github/issues-pr/QuingKhaos/sf-Titanium?label=Pull%20Requests&style=for-the-badge&logo=github)](https://github.com/QuingKhaos/sf-Titanium/pulls)
 
 # Titanium
 
@@ -8,7 +8,9 @@ Adds titanium to the base game.
 
 ### Titanium Ore
 
-Titanium Ore can't be hand mined and needs Lubricant as mining fluid.
+Titanium Ore can't be mined by hand or in regular miners, has a mining speed of 50% and needs Lubricant as mining fluid.
+
+![Titanium Ore](https://github.com/QuingKhaos/sf-Titanium/blob/0.x/.github/images/TitaniumOre.png?raw=true)
 
 Node placement is preliminary and subject to change based on playtesting and feedback.
 
