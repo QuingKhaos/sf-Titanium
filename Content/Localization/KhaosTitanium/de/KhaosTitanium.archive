@@ -12,7 +12,7 @@
 					},
 					"Translation":
 					{
-						"Text": ""
+						"Text": "Alternativ: Leichtgewichtiger ummantelter Industrieträger"
 					},
 					"Key": "LightweightEncasedIndustrialBeam/Recipe"
 				},
@@ -23,7 +23,7 @@
 					},
 					"Translation":
 					{
-						"Text": ""
+						"Text": "Alternativ: Leichtgewichtige verstärkte Platte"
 					},
 					"Key": "LightweightReinforcedPlate/Recipe"
 				},
@@ -34,7 +34,7 @@
 					},
 					"Translation":
 					{
-						"Text": ""
+						"Text": "Schmiermittel"
 					},
 					"Key": "Lubricant/Name"
 				},
@@ -45,7 +45,7 @@
 					},
 					"Translation":
 					{
-						"Text": ""
+						"Text": "Titanbarren"
 					},
 					"Key": "TitaniumIngot/Name"
 				},
@@ -67,7 +67,7 @@
 					},
 					"Translation":
 					{
-						"Text": ""
+						"Text": "Titanerz kann nicht von Hand oder mit normalen Fördermaschinen abgebaut werden. Es kann mit Schmiermittel in Flüssigkeitsförderern abgebaut werden und hat eine Abbaugeschwindigkeit von 50 %."
 					},
 					"Key": "TitaniumOre/Desc"
 				},
