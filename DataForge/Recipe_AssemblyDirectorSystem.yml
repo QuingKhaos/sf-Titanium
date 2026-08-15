@@ -1,0 +1,10 @@
+type: cdo
+patches:
+  - target: /Game/FactoryGame/Recipes/SpaceElevatorParts/Recipe_SpaceElevatorPart_7.Recipe_SpaceElevatorPart_7_C
+    properties:
+      - path: mIngredients
+        op: prepend
+        value:
+          ItemClass: /KhaosTitanium/Resources/TitaniumPlate/Desc_TitaniumPlate.Desc_TitaniumPlate_C
+          Amount: 5
+

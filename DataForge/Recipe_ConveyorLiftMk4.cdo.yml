@@ -1,0 +1,9 @@
+type: cdo
+patches:
+  - target: /Game/FactoryGame/Recipes/Buildings/Recipe_ConveyorLiftMk4.Recipe_ConveyorLiftMk4_C
+    properties:
+      - path: mIngredients
+        value:
+          - ItemClass: /KhaosTitanium/Resources/TitaniumPlate/Desc_TitaniumPlate.Desc_TitaniumPlate_C
+            Amount: 2
+

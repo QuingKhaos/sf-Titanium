@@ -28,6 +28,11 @@
 			"SemVersion": "^2026.3.467"
 		},
 		{
+			"Name": "KDataForge",
+			"Enabled": true,
+			"SemVersion": "^2026.3.467"
+		},
+		{
 			"Name": "KhaosLib",
 			"Enabled": true,
 			"SemVersion": "^1.1.1"

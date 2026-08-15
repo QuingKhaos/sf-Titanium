@@ -1,0 +1,11 @@
+type: cdo
+patches:
+  - target: /Game/FactoryGame/Recipes/AlternateRecipes/New_Update3/Recipe_Alternate_HeavyFlexibleFrame.Recipe_Alternate_HeavyFlexibleFrame_C
+    properties:
+      - path: mIngredients
+        op: replace
+        index: 3
+        value:
+          ItemClass: /KhaosTitanium/Resources/TitaniumPlate/Desc_TitaniumPlate.Desc_TitaniumPlate_C
+          Amount: 15
+

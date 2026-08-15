@@ -36,6 +36,16 @@ Legend: Green = Pure, Orange = Normal
 
 ![Titanium Plate recipe](https://github.com/QuingKhaos/sf-Titanium/blob/0.x/.github/images/Recipe_TitaniumPlate.png?raw=true)
 
+Titanium Plate is also used as a buildable ingredient.
+
+![Assembly Director System recipe](https://github.com/QuingKhaos/sf-Titanium/blob/0.x/.github/images/Recipe_AssemblyDirectorSystem.png?raw=true)
+
+![Lightweight Reinforced Plate alternate recipe](https://github.com/QuingKhaos/sf-Titanium/blob/0.x/.github/images/Recipe_Alternate_LightweightReinforcedPlate.png?raw=true)
+
+![Lightweight Encased Industrial Beam alternate recipe](https://github.com/QuingKhaos/sf-Titanium/blob/0.x/.github/images/Recipe_Alternate_LightweightEncasedIndustrialBeam.png?raw=true)
+
+![Heavy Flexible Frame alternate recipe](https://github.com/QuingKhaos/sf-Titanium/blob/0.x/.github/images/Recipe_Alternate_HeavyFlexibleFrame.png?raw=true)
+
 ## License
 
 This mod is licensed under the [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html). You are free to use, modify, and distribute this mod under the same terms of the license.
