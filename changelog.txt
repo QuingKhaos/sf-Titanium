@@ -1,4 +1,13 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.1.1
+Date: ????
+  Locale:
+    - Add partial French translation.
+    - Add partial Portuguese (Brazil) translation.
+    - Add partial Spanish (Spain) translation.
+    - Add partial Turkish translation.
+    - Add partial Ukrainian translation.
+---------------------------------------------------------------------------------------------------
 Version: 0.1.0
 Date: 2026-08-15
   Features:

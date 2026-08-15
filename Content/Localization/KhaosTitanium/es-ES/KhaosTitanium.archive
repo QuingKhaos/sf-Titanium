@@ -1,0 +1,99 @@
+{
+	"FormatVersion": 2,
+	"Namespace": "",
+	"Subnamespaces": [
+		{
+			"Namespace": "KhaosTitanium",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Alternate: Lightweight Encased Industrial Beam"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "LightweightEncasedIndustrialBeam/Recipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "Alternate: Lightweight Reinforced Plate"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "LightweightReinforcedPlate/Recipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lubricant"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "Lubricant/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Titanium Ingot"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "TitaniumIngot/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Titanium Ore"
+					},
+					"Translation":
+					{
+						"Text": "Mineral de titanio"
+					},
+					"Key": "TitaniumOre/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Titanium Ore can not be mined by hand or with regular miners. It can be mined with Lubricant in Fluid Miners and has a mining speed of 50%."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "TitaniumOre/Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Titanium Plate"
+					},
+					"Translation":
+					{
+						"Text": "Placa de titanio"
+					},
+					"Key": "TitaniumPlate/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Titanium Processing"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "TitaniumProcessing/Name"
+				}
+			]
+		}
+	]
+}
