@@ -32,6 +32,7 @@
     "shortcut": false,
     "url_inline": false
   },
+  "no-inline-html": false,
   "ol-prefix": {
     "style": "ordered"
   },

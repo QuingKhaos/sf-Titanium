@@ -1,0 +1,14 @@
+type: cdo
+patches:
+  - target: /Game/FactoryGame/Schematics/Alternate/New_Update3/Schematic_Alternate_HeavyFlexibleFrame.Schematic_Alternate_HeavyFlexibleFrame_C
+    properties:
+      - path: mSchematicDependencies
+        value:
+          - class: /Game/FactoryGame/AvailabilityDependencies/BP_SchematicPurchasedDependency.BP_SchematicPurchasedDependency_C
+            properties:
+              - path: mSchematics
+                value:
+                  - /Game/FactoryGame/Schematics/Progression/Schematic_5-2.Schematic_5-2_C
+                  - /KhaosTitanium/Schematics/Schematic_TitaniumProcessing.Schematic_TitaniumProcessing_C
+              - path: mRequireAllSchematicsToBePurchased
+                value: true

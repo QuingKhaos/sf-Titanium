@@ -1,0 +1,11 @@
+type: cdo
+patches:
+  - target: /Game/FactoryGame/Recipes/Buildings/Recipe_GeneratorFuel.Recipe_GeneratorFuel_C
+    properties:
+      - path: mIngredients
+        op: replace
+        index: 1
+        value:
+          ItemClass: /KhaosTitanium/Resources/TitaniumPlate/Desc_TitaniumPlate.Desc_TitaniumPlate_C
+          Amount: 15
+

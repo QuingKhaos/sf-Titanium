@@ -9,23 +9,40 @@
 	"CreatedBy": "QuingKhaos",
 	"CreatedByURL": "https://github.com/QuingKhaos",
 	"DocsURL": "",
-	"MarketplaceURL": "https://ficsit.app/mod/Titanium",
+	"MarketplaceURL": "https://ficsit.app/mod/KhaosTitanium",
 	"SupportURL": "https://discord.gg/B3qJBE3M9W",
 	"CanContainContent": true,
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
 	"Installed": false,
 	"BuiltInInitialFeatureState": "Active",
+	"LocalizationTargets": [
+		{
+			"Name": "KhaosTitanium",
+			"LoadingPolicy": "Always",
+			"ConfigGenerationPolicy": "Never"
+		}
+	],
 	"Plugins": [
+		{
+			"Name": "FluidMiner",
+			"Enabled": true,
+			"SemVersion": "^1.0.0"
+		},
 		{
 			"Name": "KBFL",
 			"Enabled": true,
-			"SemVersion": "^2026.3.434"
+			"SemVersion": "^2026.3.467"
+		},
+		{
+			"Name": "KDataForge",
+			"Enabled": true,
+			"SemVersion": "^2026.3.467"
 		},
 		{
 			"Name": "KhaosLib",
 			"Enabled": true,
-			"SemVersion": "^1.0.0"
+			"SemVersion": "^1.1.1"
 		},
 		{
 			"Name": "SML",
@@ -33,5 +50,5 @@
 			"SemVersion": "^3.12.0"
 		}
 	],
-	"GameVersion": ">=491125"
+	"GameVersion": ">=502094"
 }

@@ -1,0 +1,11 @@
+type: cdo
+patches:
+  - target: /Game/FactoryGame/Schematics/Progression/Schematic_5-5.Schematic_5-5_C
+    properties:
+      - path: mCost
+        op: replace
+        index: 1
+        value:
+          ItemClass: /KhaosTitanium/Resources/TitaniumPlate/Desc_TitaniumPlate.Desc_TitaniumPlate_C
+          Amount: 100
+

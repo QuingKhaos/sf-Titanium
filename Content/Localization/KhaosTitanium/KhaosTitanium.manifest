@@ -1,0 +1,107 @@
+{
+	"FormatVersion": 1,
+	"Namespace": "",
+	"Subnamespaces": [
+		{
+			"Namespace": "KhaosTitanium",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Alternate: Lightweight Encased Industrial Beam"
+					},
+					"Keys": [
+						{
+							"Key": "LightweightEncasedIndustrialBeam/Recipe",
+							"Path": "/KhaosTitanium/ST_KhaosTitanium.ST_KhaosTitanium"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Alternate: Lightweight Reinforced Plate"
+					},
+					"Keys": [
+						{
+							"Key": "LightweightReinforcedPlate/Recipe",
+							"Path": "/KhaosTitanium/ST_KhaosTitanium.ST_KhaosTitanium"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Lubricant"
+					},
+					"Keys": [
+						{
+							"Key": "Lubricant/Name",
+							"Path": "/KhaosTitanium/ST_KhaosTitanium.ST_KhaosTitanium"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Titanium Ingot"
+					},
+					"Keys": [
+						{
+							"Key": "TitaniumIngot/Name",
+							"Path": "/KhaosTitanium/ST_KhaosTitanium.ST_KhaosTitanium"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Titanium Ore"
+					},
+					"Keys": [
+						{
+							"Key": "TitaniumOre/Name",
+							"Path": "/KhaosTitanium/ST_KhaosTitanium.ST_KhaosTitanium"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Titanium Ore can not be mined by hand or with regular miners. It can be mined with Lubricant in Fluid Miners and has a mining speed of 50%."
+					},
+					"Keys": [
+						{
+							"Key": "TitaniumOre/Desc",
+							"Path": "/KhaosTitanium/ST_KhaosTitanium.ST_KhaosTitanium"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Titanium Plate"
+					},
+					"Keys": [
+						{
+							"Key": "TitaniumPlate/Name",
+							"Path": "/KhaosTitanium/ST_KhaosTitanium.ST_KhaosTitanium"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Titanium Processing"
+					},
+					"Keys": [
+						{
+							"Key": "TitaniumProcessing/Name",
+							"Path": "/KhaosTitanium/ST_KhaosTitanium.ST_KhaosTitanium"
+						}
+					]
+				}
+			]
+		}
+	]
+}
