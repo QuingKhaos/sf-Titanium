@@ -10,7 +10,7 @@ If you need to plan things out, you can use my [custom database](https://github.
 
 ### Titanium Ore
 
-Titanium Ore can't be mined by hand or in regular miners, has a mining speed of 50% and needs Lubricant as mining fluid.
+Titanium Ore can't be mined by hand or in regular miners, has a mining cycle time of 200% and needs Lubricant as mining fluid.
 
 ![Titanium Ore](https://github.com/QuingKhaos/sf-Titanium/blob/0.x/.github/images/TitaniumOre.png?raw=true)
 
