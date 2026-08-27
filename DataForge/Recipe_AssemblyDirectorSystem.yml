@@ -7,4 +7,7 @@ patches:
         value:
           ItemClass: /KhaosTitanium/Resources/TitaniumPlate/Desc_TitaniumPlate.Desc_TitaniumPlate_C
           Amount: 5
-
+      - path: mProducedIn
+        op: replace
+        index: 0
+        value: /Game/FactoryGame/Buildable/Factory/ManufacturerMk1/Build_ManufacturerMk1.Build_ManufacturerMk1_C
